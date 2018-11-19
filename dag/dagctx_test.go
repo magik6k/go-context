@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	context "golang.org/x/net/context"
+	context "context"
 )
 
 func TestWithParentsSingle(t *testing.T) {

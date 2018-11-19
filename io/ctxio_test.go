@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	context "golang.org/x/net/context"
+	context "context"
 )
 
 func TestReader(t *testing.T) {

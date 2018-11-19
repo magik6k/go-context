@@ -6,14 +6,7 @@
   "gx": {
     "dvcsimport": "github.com/jbenet/go-context"
   },
-  "gxDependencies": [
-    {
-      "author": "whyrusleeping",
-      "hash": "QmZy2y8t9zQH2a1b8q2ZSLKp17ATuJoCNxxyMFG5qFExpt",
-      "name": "go-net",
-      "version": "0.0.0"
-    }
-  ],
+  "gxDependencies": [],
   "gxVersion": "0.7.0",
   "language": "go",
   "license": "",
