@@ -11,5 +11,6 @@
   "language": "go",
   "license": "",
   "name": "go-context",
-  "version": "0.0.0"
+  "version": "1.0.0"
 }
+
